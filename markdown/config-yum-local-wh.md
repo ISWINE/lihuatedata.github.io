@@ -2,6 +2,7 @@
 ###配置本地镜像仓库
 挂载CDROM
 配置yum仓库 pwd
+![avatar](http://oyu299liy.bkt.clouddn.com/17-11-3/68333579.jpg)
 ```
 [root@16071224 CentOS_6.9_Final]# pwd #查看当前路径
 [root@16071224 CentOS_6.9_Final]# cp Packages/ /  #复制Packages到根目录
@@ -49,3 +50,4 @@ Cleaning up list of fastest mirrors
 ```bash
 tigervnc, gimp, bind, gcc, vsftp, minicom .....
 ```
+![avatar](http://oyu299liy.bkt.clouddn.com/17-11-3/17448591.jpg)
